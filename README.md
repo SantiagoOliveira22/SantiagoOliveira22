@@ -1,10 +1,10 @@
 
 # Bem vindes!
 
-## Muito prazer, Santiago! 
+## Muito prazer, Santiago! 🤝
 
-<p>🎓 Formado em Análise e Desenvolvimento de Sistemas.</p>
-<p>📚 Em Formação - Programação Web Full Stack.</p>
+<p>🎓 Formado em Análise e Desenvolvimento de Sistemas - .</p>
+<p>📚 Em Formação - Programação Web Full Stack -.</p>
 <p>🔥 Em constante desenvolvimento, sou fascinado em aprender.</p>
 <p>💻 Sou apaixonado por tecnologia.</p>
 <p>🚀 Objetivo de vida: Transformar, impactar e melhorar a vida das pessoas através da tecnologia</p>
@@ -17,6 +17,5 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964771951&text=Hello!)](https://api.whatsapp.com/send?phone=5511964771951&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santiagoc.oliveira@gmail.com)](mailto:santiagoc.oliveira@gmail.com)
 
-- Thanks for visiting. 
+### Obrigado pela visita!
 
-- Enjoy it!! o/
