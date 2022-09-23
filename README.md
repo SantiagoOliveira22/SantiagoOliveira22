@@ -1,13 +1,25 @@
 
-# Bem vindes!
+<div align="center">
+ <h1> Bem vindes! </h1>
+ <h2> Muito prazer, Santiago! 🤝</h2>
+</div>
 
-## Muito prazer, Santiago! 🤝
+<div>
+ <p>🎓 Formado em Análise e Desenvolvimento de Sistemas - <img align="center" alt="icone-uninove" height="35" width="60" src="https://www.uninove.br/icon.png"</p>
+ <p>📚 Em Formação - Programação Web Full Stack - <img align="center" alt="icone-uninove" height="70" width="80" src="https://uploads- ssl.webflow.com/5e790d30d198385b09366d8f/620fdad771beb335ce5e4aab_Logo%20completo.svg"></p>
+ <p>🔥 Em constante desenvolvimento, sou fascinado em aprender.</p>
+ <p>💻 Sou apaixonado por tecnologia.</p>
+ <p>🚀 Objetivo de vida: Transformar, impactar e melhorar a vida das pessoas através da tecnologia</p>
+</div>
 
-<p>🎓 Formado em Análise e Desenvolvimento de Sistemas - <img align="center" alt="icone-uninove" height="35" width="60" src="https://www.uninove.br/icon.png"</p>
-<p>📚 Em Formação - Programação Web Full Stack - <img align="center" alt="icone-uninove" height="70" width="80" src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/620fdad771beb335ce5e4aab_Logo%20completo.svg"></p>
-<p>🔥 Em constante desenvolvimento, sou fascinado em aprender.</p>
-<p>💻 Sou apaixonado por tecnologia.</p>
-<p>🚀 Objetivo de vida: Transformar, impactar e melhorar a vida das pessoas através da tecnologia</p>
+<br>
+
+<div align="center">
+  <a href="https://github.com/SantiagoOliveira22">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiagoOliveira22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+<br/>
 
 ## Tecnologias:
  <div style="display: inline_block"><br>
@@ -19,6 +31,8 @@
   <img align="center" alt="Styled-Components" height="30" width="100" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img align="center" alt="Chakra" height="30" width="110" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
 </div>
+
+
 
 ## Terminal
 <div style="display: inline_block"><br>
@@ -43,8 +57,6 @@
   <img align="center" alt="Node.Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Firebase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
- 
-
 </div>
 
 ##  Contatos:
