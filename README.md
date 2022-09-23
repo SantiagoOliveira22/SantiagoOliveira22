@@ -5,8 +5,8 @@
 </div>
 
 <div>
- <p>🎓 Formado em Análise e Desenvolvimento de Sistemas - <img align="center" alt="icone-uninove" height="35" width="60" src="https://www.uninove.br/icon.png"</p>
- <p>📚 Em Formação - Programação Web Full Stack - <img align="center" alt="icone-uninove" height="70" width="80" src="https://uploads- ssl.webflow.com/5e790d30d198385b09366d8f/620fdad771beb335ce5e4aab_Logo%20completo.svg"></p>
+ <p>🎓 Formado em Análise e Desenvolvimento de Sistemas - <img align="center" alt="icone-uninove" height="30" width="30" src="https://www.uninove.br/icon.png"></p>
+ <p>📚 Em Formação - Programação Web Full Stack - <img align="center" alt="icone-Labenu" height="30" width="30" src="https://miro.medium.com/max/2400/2*pq7dg0Y11VmKBSy6qiJdtQ.png"></p> 
  <p>🔥 Em constante desenvolvimento, sou fascinado em aprender.</p>
  <p>💻 Sou apaixonado por tecnologia.</p>
  <p>🚀 Objetivo de vida: Transformar, impactar e melhorar a vida das pessoas através da tecnologia</p>
