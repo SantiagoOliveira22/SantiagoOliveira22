@@ -4,7 +4,7 @@
  <h2> Muito prazer, Santiago! 🤝</h2>
 </div>
 
-<div align="center">
+<div>
  <p>🎓 Formado em Análise e Desenvolvimento de Sistemas - <img align="center" alt="icone-uninove" height="30" width="30" src="https://www.uninove.br/icon.png"></p>
  <p>📚 Em Formação - Programação Web Full Stack - <img align="center" alt="icone-Labenu" height="30" width="30" src="https://miro.medium.com/max/2400/2*pq7dg0Y11VmKBSy6qiJdtQ.png"></p> 
  <p>🔥 Em constante desenvolvimento, sou fascinado em aprender.</p>
@@ -14,7 +14,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://github.com/SantiagoOliveira22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiagoOliveira22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
@@ -22,39 +22,26 @@
 <br/>
 
 
- <div style="display: inline_block" align="center"><br>
+ <div style="display: inline_block"><br>
 <h2> Tecnologias: <h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- 
+  <img align="center" alt="Git" height="30" width="40"    src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
   <img align="center" alt="Styled-Components" height="30" width="100" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img align="center" alt="Chakra" height="30" width="110" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
+ <img align="center" alt="VS Code" height="30" width="110" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
-
-
-
-<div style="display: inline_block" align="center"><br>
-<h2>Terminal</h2>
- <img align="center" alt="Git" height="30" width="40" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
-</div>
-
-
-<div style="display: inline_block" align="center"><br>
-<h2>IDE</h2>
- <img align="center" alt="VS Code" height="30" width="80" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</div>
-
-<div style="display: inline_block" align="center"><br>
-<h2>Processos Ágeis</h2>
+<div style="display: inline_block"><br>
+<h2>Metodologia Ágil</h2>
  <p> Kanban
   <img align="center" alt="Trello" height="30" width="80" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> </p>
 </div>
 
 
- <div style="display: inline_block" align="center"><br>
+ <div style="display: inline_block"><br>
  <h2>Estudando...</h2>
   <img align="center" alt="Typescript" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
