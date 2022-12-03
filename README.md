@@ -53,7 +53,7 @@
 <div style="display: inline_block" align="center"><br>
 <h2>Contatos:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-cardoso-de-oliveira-8116a71a5)](https://www.linkedin.com/in/santiago-cardoso-de-oliveira-8116a71a5)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-cardoso-de-oliveira-8116a71a5)](https://www.linkedin.com/in/santiago-oliveira/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964771951&text=Hello!)](https://api.whatsapp.com/send?phone=5511964771951&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santiagoc.oliveira@gmail.com)](mailto:santiagoc.oliveira@gmail.com)
 </div>
